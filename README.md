@@ -1,62 +1,63 @@
 # 👋 Hi，我是 Ding
 
-💻 Java 后端工程师 ｜ 🤖 AI Agent 学习者 ｜ 🧠 系统架构探索者
+🤖 AI Agent & 自动化系统方向探索者  
+🚀 Java 后端工程师（主栈）  
+⚙️ PHP / Go 后端开发（扩展能力）  
+🌐 Vue / JavaScript 前端开发  
 
 ---
 
-## 📊 个人 GitHub 数据概览
+## 🧠 当前方向
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&locale=cn)
-
----
-
-## 🧩 编程语言占比
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&locale=cn)
+- 🚀 Java 后端系统设计与工程化能力建设  
+- 🤖 AI Agent（Workflow / Tool Calling / Sub-Agent）体系探索  
+- ⚙️ 后端系统 × LLM 融合实践  
+- 🔄 自动化 DevOps / CI/CD / GitHub Actions 构建  
+- 📦 工程化工具体系与可复用架构设计  
 
 ---
 
-## 🧠 当前在做什么
+## 🎯 技术目标
 
-- 🚀 从传统 Java 后端向 AI Agent 方向转型  
-- ⚙️ 构建个人自动化工作流（GitHub / Jenkins / DevOps）  
-- 🧩 探索 LLM + 工程系统结合方式  
-- 📦 打造可复用的后端 & AI 工具库  
+> 构建「Java 后端 + AI Agent + 自动化系统 + 前端工程化」统一工程能力体系，并持续产品化
 
 ---
 
-## 🛠 技术栈
+# 📈 活跃趋势
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shixiaoding&theme=github-compact)
 
 ---
 
-## 📦 重点项目
+# 🛠 技术栈
 
-- 🧠 personal-agent-skills（AI Agent 能力沉淀）
-- ⚙️ sd-team-code（团队工程体系）
-- 📊 study-notes（技术知识体系）
-- 🚀 oliver-coding（个人技术站点）
+### ☕ Backend（主栈）
+![Backend](https://skillicons.dev/icons?i=java,spring)
 
----
+### ⚙️ Extended Backend（扩展能力）
+![Extended](https://skillicons.dev/icons?i=php,go)
 
-## 📈 GitHub 活跃度
+### 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=vue,js,html,css)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shixiaoding&theme=tokyo-night)
+### ⚙️ DevOps / Infra
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,jenkins)
 
----
-
-## 🎯 目标
-
-> 构建一个“后端 + AI Agent + 自动化系统”的工程化能力体系
+### 🤖 AI / Automation
+![AI](https://skillicons.dev/icons?i=python,fastapi,github)
 
 ---
 
-## 📫 联系方式
+# 📦 项目体系
 
-- GitHub: https://github.com/你的GitHub用户名
+- 🧠 personal-agent-skills  
+- ⚙️ sd-team-code  
+- 📊 study-notes  
+- 🚀 oliver-coding  
+
+---
+
+# 📫 联系方式
+
+- GitHub: https://github.com/shixiaoding  
 - Blog: https://shixiaoding.github.io/oliver-coding/
