@@ -46,7 +46,7 @@
 
 ## 📈 GitHub 活跃度
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&theme=tokyo-night)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=shixiaoding&theme=tokyo-night)
 
 ---
 
